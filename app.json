@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "DayLog",
-    "slug": "DayLog",
+    "slug": "daylog",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4186bf09-6610-4d10-be34-5839f5c637f2"
+      }
+    },
+    "owner": "joseongjin"
   }
 }
